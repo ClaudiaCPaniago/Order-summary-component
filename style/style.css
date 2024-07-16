@@ -42,8 +42,7 @@ body {
   box-shadow: 0 15px 25px 0 hsla(245, 75%, 52%, 0.11);
   overflow: hidden;
   max-width: 27.5rem;
-  margin-left: 1.5em;
-  margin-right: 1.5em;
+  margin: 1.7em 1.5em;
 }
 
 .card__img-holder img {
